@@ -1,12 +1,11 @@
 # Databases
 
-> A disciplina faz uma introdução à concepção e análise de bases de dados. O curso foca no
-> modelo relacional, cobrindo o desenho lógico das bases de dados (desenho do esquema) e sua
-> implementação, bem como os sistemas de gestão de transações. Alguns apetos de gestão de
-> informação não estruturada e semiestruturada serão também abordados. A disciplina tem como
-> objetivo expor os alunos aos conceitos básicos necessários no desenho e concepção de um
-> sistema de informação, assim como o desenvolvimento de competências transversais para a sua
-> realização no âmbito de um projeto em equipa.
+> The course introduces students to database design and analysis. The focus is on the relational
+> model, covering the logical design of databases (schema design) and implementation, and transaction
+> processing systems. Aspects of unstructured and semi-structured data management, decision support
+> and data mining systems will also be covered. The objective of this course is to expose the student
+> to the basic concepts involved in designing and building an information system, and to practical
+> information systems applications design through a team-based project.
 
 ## Project 1 - Entity‑Relationship Model and Relational Schema
 
